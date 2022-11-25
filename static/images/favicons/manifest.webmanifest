@@ -1,0 +1,19 @@
+{
+    "name": "ermile | As easy as ABC is our slogan!",
+    "short_name": "ermile",
+    "description": "Ermile contain a new tools for each one",
+    "dir": "ltr",
+    "lang": "en-US",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#1a2733",
+    "scope": "/",
+    "start_url": "https://ermile.com?utm_source=pwa",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "type": "image/png",
+            "src": "https://ermile.com/static/images/logo/ermile.png"
+        }
+    ]
+}
